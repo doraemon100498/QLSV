@@ -1,0 +1,16 @@
+E:\Visual Studio\GroupBox\GroupBox\bin\Debug\GroupBox.exe.config
+E:\Visual Studio\GroupBox\GroupBox\bin\Debug\GroupBox.exe
+E:\Visual Studio\GroupBox\GroupBox\bin\Debug\GroupBox.pdb
+E:\Visual Studio\GroupBox\GroupBox\bin\Debug\EntityFramework.dll
+E:\Visual Studio\GroupBox\GroupBox\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio\GroupBox\GroupBox\bin\Debug\EntityFramework.xml
+E:\Visual Studio\GroupBox\GroupBox\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio\GroupBox\GroupBox\obj\Debug\GroupBox.csprojAssemblyReference.cache
+E:\Visual Studio\GroupBox\GroupBox\obj\Debug\GroupBox.Form1.resources
+E:\Visual Studio\GroupBox\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+E:\Visual Studio\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+E:\Visual Studio\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+E:\Visual Studio\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.CopyComplete
+E:\Visual Studio\GroupBox\GroupBox\obj\Debug\GroupBox.exe
+E:\Visual Studio\GroupBox\GroupBox\obj\Debug\GroupBox.pdb
+E:\Visual Studio\GroupBox\GroupBox\obj\Debug\GroupBox.Migrations.khoitaodb.resources
